@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+   <title>ECE342 Microelectronics I (test equipment) - University of Maine</title>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+   <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+   <!-- include myfile.css -->
+   <link href="css/myfile.css" rel="stylesheet">
+   <!-- script for google analytics -->
+   <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-82641964-1', 'auto');
+      ga('send', 'pageview');
+   </script>
+</head>
+
+<body>
+   <div class="container">
+
+      <div class="row">
+         <div class="col-sm-3">
+            <figure>
+               <img id="pict" src="images/Rigol_DS1052E.jpg" alt="electrical test equipment" class="img-responsive center-block" width="225px"  />
+               <caption> By Lain Cai (Flickr: rigol ds1052e) [<a href="http://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3ARigol_DS1052E.jpg">via Wikimedia Commons</a></caption>
+            </figure>
+         </div>
+
+         <div class="col-sm-9">
+            <h2><a href="index.html">ECE 342 - Electronics I</a></h2>
+            <h3 style="margin-bottom:20px">Electronic Test Equipment Manuals</h3>
+            <h4>Department of Electrical and Computer Engineering<br>University of Maine</h4>
+
+         </div>
+      </div>
+
+
+      <div class="row">
+         <hr style="margin-top:7px"/>
+         <div class="col-sm-6">
+            <ul>
+               <h4>Al Whitney Electronics Laboratory (224 Barrows)</h4>
+               <ul>
+                  <li>RIGOL Programmable Linear DC Power Supply</li>
+                     <ul>
+                        <li><a href="equipment/DP800_Datasheet.pdf">Data Sheet</a></li>
+                        <li><a href="equipment/DP800_QuickGuide.pdf">Quick Guide</a></li>
+                        <li><a href="equipment/DP832_UsersGuide.pdf">User's Guide</a></li>                  
+                     </ul>
+                  <li>RIGOL Function / Arbitrary Waveform Generator</li>
+                     <ul>
+                        <li><a href="equipment/DG1022_Datasheet.pdf">Data Sheet</a></li>
+                        <li><a href="equipment/DG1022_UserGuide.pdf">User's Guide</a></li>
+                     </ul>
+                  <li>RIGOL Digital Oscilloscope</li>
+                     <ul>
+                        <li><a href="equipment/MSO1000Z_Datasheet.pdf">Data Sheet</a></li>
+                        <li><a href="equipment/MSO1000Z_QuickGuide.pdf">Quick Guide</a></li>
+                        <li><a href="equipment/MSO1000Z_UserGuide.pdf">User's Guide</a></li>
+                     </ul>
+               </ul>
+            </ul>
+         </div>
+
+         <div class="col-sm-6">
+            <ul>
+               <h4>Digilent Analog Discovery 2</h4>
+               <ul>
+                  <li><a href="equipment/Analog_Discovery_Reference_Manual.pdf">Reference Manual</a></li>
+                  <li><a href="equipment/Analog_Discovery_Pin-Out.pdf">Pin-Outs</a></li>
+                  <li><a href="equipment/Analog_Discovery_BNC_Reference_Manual.pdf">BNC Reference Manual</a></li>
+                  <li><a href="equipment/powerbrick_rm.pdf">Power Brick Reference Manual</a></li>
+                  <li><a href="equipment/waveforms-2015_rm.pdf">WaveForms 2015 Reference Manual</a></li>
+                  <li><a href="https://reference.digilentinc.com/learn/instrumentation/tutorials/waveforms-2015-getting-started/start" target="_blank">WaveForms 2015: Getting Started Guide</a></li>
+                  <li>Tutorials</li>
+                     <ul>
+                        <li><a href="https://reference.digilentinc.com/learn/instrumentation/tutorials/ad2-waveform-generator/start" target="_blank">Using the Waveform Generator</a></li>
+                        <li><a href="https://reference.digilentinc.com/learn/instrumentation/tutorials/ad2-power-supplies/start" target="_blank">Using the Power Supplies</a></li>
+                        <li><a href="https://reference.digilentinc.com/learn/instrumentation/tutorials/ad2-oscilloscope/start" target="_blank">Using the Oscilloscope</a></li>
+                        <li><a href="https://reference.digilentinc.com/learn/instrumentation/tutorials/ad2-spectrum-analyzer/start" target="_blank">Using the Spectrum Analyzer</a></li>
+                        <li><a href="https://reference.digilentinc.com/learn/instrumentation/tutorials/ad2-network-analyzer/start" target="_blank">Using the Network Analyzer</a></li>
+                     </ul>
+                  <li><a href="https://forum.digilentinc.com/" target="_blank">Digilent Technical Forums</a></li>
+               </ul>
+            </ul>
+         </div>
+      </div>
+
+      <div class="row">
+         <hr />
+      </div>
+
+      <div class="row">
+         <div id="foot" class="col-sm-12">
+            <p style="text-align:center"><i>Copyright &#169; <span id="cr_year"></span> David E. Kotecki unless otherwise attributed.</i></p>
+            <script>
+            var year = new Date().getFullYear();
+            var element = document.getElementById("cr_year");
+            element.innerHTML = year;
+            </script>
+
+         </div>
+      </div>
+
+   </div> <!-- closes class container -->
+</body>
+
