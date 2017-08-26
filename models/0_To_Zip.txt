@@ -1,0 +1,3 @@
+From the models directory:
+1. Update the ECE342_models.mod file to include all necessary models
+2. zip ECE342_models.zip *.mod

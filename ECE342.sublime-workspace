@@ -44,7 +44,7 @@
 			"file": "ngspice.html",
 			"settings":
 			{
-				"buffer_size": 4180,
+				"buffer_size": 4190,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -323,15 +323,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4180,
+						"buffer_size": 4190,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2696,
-								2696
+								1293,
+								1293
 							]
 						],
 						"settings":
