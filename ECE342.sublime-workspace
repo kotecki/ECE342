@@ -35,7 +35,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 5603,
+				"buffer_size": 5710,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -44,7 +44,7 @@
 			"file": "ngspice.html",
 			"settings":
 			{
-				"buffer_size": 4190,
+				"buffer_size": 4312,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -91,10 +91,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 372.0,
-		"last_filter": "Package Control: ",
+		"height": 392.0,
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"HTML: Encode Special Characters"
+			],
 			[
 				"Package Control: ",
 				"Package Control: Install Package"
@@ -124,7 +128,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 458.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -244,7 +248,7 @@
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -293,15 +297,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5603,
+						"buffer_size": 5710,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2529,
-								2529
+								1784,
+								1784
 							]
 						],
 						"settings":
@@ -311,10 +315,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 360.0,
+						"translation.y": 270.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -323,15 +327,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4190,
+						"buffer_size": 4312,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3361,
-								3361
+								2630,
+								2630
 							]
 						],
 						"settings":
@@ -341,7 +345,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 225.0,
+						"translation.y": 150.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -374,7 +378,7 @@
 						"translation.y": 225.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
