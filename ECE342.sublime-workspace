@@ -35,7 +35,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 5973,
+				"buffer_size": 6188,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -44,7 +44,7 @@
 			"file": "ngspice.html",
 			"settings":
 			{
-				"buffer_size": 4312,
+				"buffer_size": 4402,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -53,7 +53,7 @@
 			"file": "datasheets.html",
 			"settings":
 			{
-				"buffer_size": 4302,
+				"buffer_size": 5135,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -91,14 +91,10 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "",
+		"height": 372.0,
+		"last_filter": "Package Control: ",
 		"selected_items":
 		[
-			[
-				"",
-				"HTML: Encode Special Characters"
-			],
 			[
 				"Package Control: ",
 				"Package Control: Install Package"
@@ -128,7 +124,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 449.0
+		"width": 458.0
 	},
 	"console":
 	{
@@ -248,7 +244,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 25.0
 	},
 	"find_in_files":
 	{
@@ -288,7 +284,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -297,15 +293,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5973,
+						"buffer_size": 6188,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4552,
-								4552
+								4782,
+								4782
 							]
 						],
 						"settings":
@@ -315,10 +311,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 135.0,
+						"translation.y": 1452.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -327,15 +323,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4312,
+						"buffer_size": 4402,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2630,
-								2630
+								3917,
+								3917
 							]
 						],
 						"settings":
@@ -345,10 +341,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 150.0,
+						"translation.y": 1102.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -357,15 +353,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4302,
+						"buffer_size": 5135,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								3893,
+								3893
 							]
 						],
 						"settings":
@@ -375,10 +371,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 105.0,
+						"translation.y": 961.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -416,7 +412,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 25.0
 	},
 	"input":
 	{
@@ -457,7 +453,7 @@
 	"project": "ECE342.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
