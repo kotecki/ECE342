@@ -1,0 +1,4 @@
+********** PSpice Compatibility Functions **********
+.func LIMIT(x,a,b) {min(max(x,a),b)}
+.func IF(a,b,c) {ternary_fcn(a,b,c)}
+
