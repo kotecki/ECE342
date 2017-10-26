@@ -1,3 +1,6 @@
 .include 'LF356.mod'
 .include 'LF347.mod'
 .include 'CD4007.mod'
+.include 'CD4007_DMH.mod'
+.include 'TLV6001_modified.mod'
+.include 'LED_Model.mod'
