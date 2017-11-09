@@ -35,7 +35,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 6188,
+				"buffer_size": 6389,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -44,7 +44,7 @@
 			"file": "ngspice.html",
 			"settings":
 			{
-				"buffer_size": 4402,
+				"buffer_size": 4528,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -53,7 +53,7 @@
 			"file": "datasheets.html",
 			"settings":
 			{
-				"buffer_size": 5135,
+				"buffer_size": 5138,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -284,7 +284,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -293,15 +293,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6188,
+						"buffer_size": 6389,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4782,
-								4782
+								1868,
+								1868
 							]
 						],
 						"settings":
@@ -311,10 +311,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1452.0,
+						"translation.y": 679.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -323,15 +323,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4402,
+						"buffer_size": 4528,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3917,
-								3917
+								3933,
+								3933
 							]
 						],
 						"settings":
@@ -341,7 +341,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1102.0,
+						"translation.y": 980.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -353,15 +353,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5135,
+						"buffer_size": 5138,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3893,
-								3893
+								3869,
+								3869
 							]
 						],
 						"settings":
@@ -371,10 +371,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 961.0,
+						"translation.y": 1003.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
