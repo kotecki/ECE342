@@ -11,9 +11,6 @@
 **** added line below using 'hspc_addline' function ****
 .tran .1u 1m
 
-******* added using 'hspc_addline' function in MatLab *******
-.tran .1u 1m
-
 ******* Initial Conditions *******
 .ic v(xi0.vout2)=0
 
